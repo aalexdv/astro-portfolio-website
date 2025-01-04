@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "icon": "linkedin",
+    "text": "LinkedIn",
+    "link": "https://www.linkedin.com/in/oleksiitrembach/"
+  },
+  {
+    "id": 2,
+    "icon": "github",
+    "text": "GitHub",
+    "link": "https://github.com/aalexdv"
+  }
+]

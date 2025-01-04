@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "duration": "Feb 2022 - Apr 2023",
+    "company": "Grupa TENSE",
+    "title": "SEO Specialist",
+    "description": "Optimized websites for SEO by conducting technical analyses using tools like Ahrefs and SEMrush, creating reports, enhancing site performance with coding skills (HTML, CSS, JavaScript, PHP), managing analytics tools (Google Analytics, Search Console), working with CMS platforms, and delivering client communication and expert blog content."
+  },
+  {
+    "id": 2,
+    "duration": "Jul 2023 - Dec 2024",
+    "company": "Vovia",
+    "title": "Data Scientist",
+    "description": "Designed and optimized data pipelines using Azure and GCP, deployed ML models for asset analysis and sales forecasting, implemented advanced data collection and consent management, built data lakes and dashboards, optimized cloud costs, integrated APIs, enhanced data lakes, developed internal tools, and provided training in machine learning, data processing, and reporting."
+  },
+  {
+    "id": 3,
+    "duration": "May 2022 - Present",
+    "company": "Syntarix",
+    "title": "Technology Consultant (Freelance)",
+    "description": "Providing comprehensive digital solutions by leveraging expertise in software engineering, cybersecurity, machine learning, AI, data analytics, web development, SEO, and digital marketing to develop efficient, data-driven systems, enhance digital presence, and drive client-focused business growth."
+  },
+  {
+    "id": 4,
+    "duration": "Jan 2025 - Present",
+    "company": "Konstruct Digital",
+    "title": "Senior Data Specialist",
+    "description": "Bring expertise in designing and managing advanced data solutions, driving actionable insights through cutting-edge analytics, and delivering impactful results to empower strategic decision-making."
+  }
+]
